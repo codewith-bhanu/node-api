@@ -1,1 +1,1 @@
-Simple RestAPI of Contact details using Express, Mongodb and Typescript
+Simple RestAPI for Contact Details using Express, Mongodb and Typescript
